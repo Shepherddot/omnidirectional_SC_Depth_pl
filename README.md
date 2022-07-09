@@ -1,7 +1,7 @@
 # omnidirectional_SC_Depth_pl
 This is experimental version of sc depth pl which support omnidirectional or wide angle fisheye camera.
 ### click here to watch video(tested on oxford robocar dataset)
-[![Watch the video](demo/omni.png)](https://youtu.be/vjYXzsz54C0)
+[![Watch the video](demo/omni.png)](https://youtu.be/XDdxG8LAIz8)
 
 
 
